@@ -99,7 +99,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3572A5;width: 49.768%;margin-right: 0.503%;" class="progress-item"></span><span style="background-color: #555555;width: 27.397%;margin-right: 0.559%;" class="progress-item"></span><span style="background-color: #b07219;width: 17.766%;margin-right: 0.363%;" class="progress-item"></span><span style="background-color: #336790;width: 3.645%;margin-right: 0.000%;" class="progress-item"></span>
+<span style="background-color: #3572A5;width: 69.080%;margin-right: 0.698%;" class="progress-item"></span><span style="background-color: #b07219;width: 24.660%;margin-right: 0.503%;" class="progress-item"></span><span style="background-color: #336790;width: 5.059%;margin-right: 0.000%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -111,34 +111,25 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">50.27%</span>
+<span class="percent">69.78%</span>
 </li>
 
 
 <li style="animation-delay: 150ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#555555;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">C</span>
-<span class="percent">27.96%</span>
-</li>
-
-
-<li style="animation-delay: 300ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#b07219;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Java</span>
-<span class="percent">18.13%</span>
+<span class="percent">25.16%</span>
 </li>
 
 
-<li style="animation-delay: 450ms;">
+<li style="animation-delay: 300ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#336790;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">PLpgSQL</span>
-<span class="percent">3.64%</span>
+<span class="percent">5.06%</span>
 </li>
 
 
